@@ -1,0 +1,53 @@
+<connections bbox="155.2 165.6 224 181.6" net="hmg_out56_7_">
+<layer name="METAL"  color="blue"   lineStyle="solid" pattern="slash"/>
+<layer name="METAL2" color="yellow" lineStyle="solid" pattern="backSlash"/>
+<layer name="METAL3" color="red"    lineStyle="solid" pattern="slash"/>
+<layer name="VIA"    color="green"  lineStyle="solid" pattern="slash"/>
+<layer name="VIA2"   color="orange" lineStyle="solid" pattern="backSlash"/>
+<cell name="RES_I110/ADD_4">
+<shape layer="boundary" points="155.2,173.6 185.6,173.6 185.6,181.6 155.2,181.6"/>
+</cell>
+<pin name="RES_I110/ADD_4/S0">
+<shape layer="METAL" points="167.72,175.34 168.50,175.34 168.50,175.72 167.72,175.72"/>
+<shape layer="METAL" points="167.72,175.72 168.68,175.72 168.68,175.82 167.72,175.82"/>
+<shape layer="METAL" points="168.12,175.82 168.68,175.82 168.68,176.28 168.12,176.28"/>
+<shape layer="METAL" points="168.24,176.28 168.56,176.28 168.56,178.06 168.24,178.06"/>
+<shape layer="METAL" points="167.66,178.06 168.56,178.06 168.56,178.48 167.66,178.48"/>
+</pin>
+<cell name="r4_7__reg">
+<shape layer="boundary" points="212.8,173.6 224,173.6 224,165.6 212.8,165.6 212.8,173.6"/>
+</cell>
+<pin name="r4_7__reg/D">
+<shape layer="METAL" points="216.86,169.88 217.30,169.88 217.30,170.92 216.86,170.92"/>
+<shape layer="METAL" points="216.86,169.32 217.48,169.32 217.48,169.88 216.86,169.88"/>
+<shape layer="METAL" points="216.86,168.70 217.28,168.70 217.28,169.32 216.86,169.32"/>
+</pin>
+<wire name="VWIRE#52575">
+<shape  layer="METAL2" points="217,169.4 217.4,169.4 217.4,176.2 217,176.2"/>
+<points layer="METAL2" points="217.2,169.6 217.2,176"/>
+</wire>
+<wire name="HWIRE#53055">
+<shape  layer="METAL3" points="168.2,175.8 217.4,175.8 217.4,176.2 168.2,176.2"/>
+<points layer="METAL3" points="168.4,176 217.2,176"/>
+</wire>
+<contact name="VIA#53372" objId="53372">
+<shape layer="METAL"  points="217.00,169.40 217.40,169.40 217.40,169.80 217.00,169.80"/>
+<shape layer="METAL2" points="217.00,169.00 217.40,169.00 217.40,170.20 217.00,170.20"/>
+<shape layer="VIA"    points="217.02,169.42 217.38,169.42 217.38,169.78 217.02,169.78"/>
+</contact>
+<contact name="VIA#53373" objId="53373">
+<shape layer="METAL2" points="217.00,175.40 217.40,175.40 217.40,176.60 217.00,176.60"/>
+<shape layer="METAL3" points="216.60,175.80 217.80,175.80 217.80,176.20 216.60,176.20"/>
+<shape layer="VIA2"   points="217.02,175.82 217.38,175.82 217.38,176.18 217.02,176.18"/>
+</contact>
+<contact name="VIA#53374" objId="53374">
+<shape layer="METAL2" points="168.20,175.40 168.60,175.40 168.60,176.60 168.20,176.60"/>
+<shape layer="METAL3" points="167.80,175.80 169.00,175.80 169.00,176.20 167.80,176.20"/>
+<shape layer="VIA2"   points="168.22,175.82 168.58,175.82 168.58,176.18 168.22,176.18"/>
+</contact>
+<contact name="VIA#53375" objId="53375">
+<shape layer="METAL"  points="168.20,175.80 168.60,175.80 168.60,176.20 168.20,176.20"/>
+<shape layer="METAL2" points="168.20,175.40 168.60,175.40 168.60,176.60 168.20,176.60"/>
+<shape layer="VIA"    points="168.22,175.82 168.58,175.82 168.58,176.18 168.22,176.18"/>
+</contact>
+</connections>

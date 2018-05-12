@@ -1,0 +1,56 @@
+/* XPM */
+
+static const char *
+bird4_data[] = {
+  /* width height num_colors chars_per_pixel x_hot y_hot */
+  "31 31 14 1 0 0",
+
+  /* colors */
+  ". s symbol1 c #ff6600 m black",
+  "# s symbol2 c #ff3333 m black",
+  "a s symbol3 c #ff3300 m black",
+  "b s symbol4 c #ff0000 m black",
+  "c s symbol5 c #cc0000 m black",
+  "d s symbol6 c #33cc33 m black",
+  "e s symbol7 c #33cc00 m black",
+  "f s symbol8 c #339900 m black",
+  "g s symbol9 c #009900 m black",
+  "h s symbol10 c #006633 m black",
+  "i s symbol11 c #006600 m black",
+  "j s symbol12 c #003300 m black",
+  "k s symbol13 c #000000 m black",
+  "  s mask c none",
+
+  /* pixels */
+  "                               ",
+  "                   cb #        ",
+  "                   ccbcc       ",
+  "         kkk      bc#cac#      ",
+  "      kkkegdkk    cbcccccc     ",
+  "   kkkdfdgdedgk   #  c#cbckk   ",
+  " kkdgdgiihidgdgk    kdgec...   ",
+  " kdgdedidehihedkk  kkekgk.k.   ",
+  " kgdgegdgegdiigdgkkkgegdk...   ",
+  " kagdgdedgdgdidedgdgdgdekk..   ",
+  " kccgdgeihgegdgegdgegdgekk..   ",
+  "  kcdkhihedgdedgdedgdedkk      ",
+  "  kbciidgeihgegdkegdgegkkkk    ",
+  "   kbcdfdihedgdkkgkedgdkdgd    ",
+  "    kbckihgdgkiigdikgdkiihgk   ",
+  "     kbihedgkihgdehikkkihedgk  ",
+  "      cccegiiegdgegiiiiijigdk  ",
+  "        kkhidgdedgdghihehihgdk ",
+  "         hiegdge..geihgeghiigk ",
+  "        hidgdedgd.dihidgdedidk ",
+  " kk   kkiegdg..d...hjkgdgegdgk ",
+  "kc#kkkhihgdedg.fdkkcbkdfkgdedk ",
+  "kbcdgdgegdgkg..kk  kcbgekdgdgk ",
+  "kcacdedgdekkkkk     kcdgkedgdk ",
+  " kkcgkkdgk          kccccegdgk ",
+  "   kbkdekk           kkkbcagdk ",
+  "   kcdgek               kkcekk ",
+  "    kcagk                kbc#k ",
+  "    kkcck                 kkkk ",
+  "      kkk                      ",
+  "                               ",
+};

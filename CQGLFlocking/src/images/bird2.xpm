@@ -1,0 +1,50 @@
+/* XPM */
+
+static const char *
+bird2_data[] = {
+  /* width height num_colors chars_per_pixel x_hot y_hot */
+  "32 28 11 1 0 0",
+
+  /* colors */
+  ". s symbol1 c #000000 m black",
+  "# s symbol2 c #800000 m black",
+  "a s symbol3 c #808000 m black",
+  "b s symbol4 c #008080 m black",
+  "c s symbol5 c #808080 m white",
+  "d s symbol6 c #ff0000 m black",
+  "e s symbol7 c #00ffff m white",
+  "f s symbol8 c #ffffff m white",
+  "g s symbol9 c #000000 m black",
+  "h s symbol10 c #cccccc m white",
+  "  s mask c none",
+
+  /* pixels */
+  "                             .. ",
+  "                            .eb.",
+  "                           .cbf.",
+  "                          .ebcb.",
+  "                         .cbfca.",
+  "                        .ebcbe.g",
+  "                       .cbfca.gg",
+  "                      .ebcbe.ggg",
+  "       ....c       c..hbhba.gggg",
+  "     ..ddad.........bebebe.ggggg",
+  "    .#dffhadadadadhbhbhbhb.ggggg",
+  "  ...dhh.aaadadebebebebebacggggg",
+  ".....aaaaaahhhhbhbhbhbhbc.gggggg",
+  "    c.hfffffhhbebebebebebcgggggg",
+  "      .ffffffhhbhbhbhbeb.ggggggg",
+  "       ..fffffbebebebebacggggggg",
+  "         .hffhhbbbbbbbc.gggggggg",
+  "          .chhcaba.aba.ggggggggg",
+  "           ..ccbcbc...gggggggggg",
+  "             ........ggggggggggg",
+  "             .g     ..gggggggggg",
+  "            ...    .gggggggggggg",
+  "          ..g     .ggggggggggggg",
+  "         .g      .gggggggggggggg",
+  "        ....    .ggggggggggggg  ",
+  "       .g.ggggg....ggggggggg    ",
+  "             g.g.ggggggggg      ",
+  "               ggggggggg        ",
+};

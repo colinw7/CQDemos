@@ -1,0 +1,46 @@
+/* XPM */
+
+static const char *
+bird3_data[] = {
+  /* width height num_colors chars_per_pixel x_hot y_hot */
+  "27 29 6 1 0 0",
+
+  /* colors */
+  ". s symbol1 c #000000 m black",
+  "# s symbol2 c #008080 m black",
+  "a s symbol3 c #00ffff m white",
+  "b s symbol4 c #ffffff m white",
+  "c s symbol5 c #cccccc m white",
+  "  s mask c none",
+
+  /* pixels */
+  "                .         .",
+  "               .b.       ..",
+  "               .b.      .c.",
+  "               .b.      .c.",
+  "        ...   .bcc.    .c#.",
+  "       .bbc.  .bcc.   . ##.",
+  "      .ba.ac. .bcc.  .c###.",
+  "......aaaaaac..bccc..c###. ",
+  "      .aaaaaac.bccc.b####. ",
+  "       .###aab.bcc.b####.  ",
+  "        ..##aab...b#####.  ",
+  "          .##acbbb#####.   ",
+  "          .##aaa#######.   ",
+  "           .a#aac#####.    ",
+  "           .#aaaac###.     ",
+  "           .##aaaac#.      ",
+  "            .a#aaaa.       ",
+  "            .#a#aaac.      ",
+  "             .#a#aaac.     ",
+  "              .#a#aaac.    ",
+  "              .##a#aac.    ",
+  "               ..#a#aaa.   ",
+  "              .......a#a.  ",
+  "             .c.c.#.#.c#a. ",
+  "             .a.a.c.ac.c#a.",
+  "            .ac.c.ac.ac.c..",
+  "            .c.ca.cac.ac.  ",
+  "            .. .. .ca...   ",
+  "                   ..      ",
+};

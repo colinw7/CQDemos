@@ -1,0 +1,51 @@
+/* XPM */
+
+static const char *
+bird1_data[] = {
+  /* width height num_colors chars_per_pixel x_hot y_hot */
+  "32 32 8 1 0 0",
+
+  /* colors */
+  ". s symbol1 c #000000 m black",
+  "# s symbol2 c #800000 m black",
+  "a s symbol3 c #ff0000 m black",
+  "b s symbol4 c #808000 m black",
+  "c s symbol5 c #ffff00 m white",
+  "d s symbol6 c #808080 m white",
+  "e s symbol7 c #ffffff m white",
+  "  s mask c none",
+
+  /* pixels */
+  "                        ........",
+  "                    ....ddddaa#.",
+  "                   .bbeee...... ",
+  "                   .bbdddddaa#. ",
+  "                  .bbe........  ",
+  "                  .bbdddddaa#.  ",
+  "                 .bbbee......   ",
+  "       b.        ..beddddd#.    ",
+  "       .b..     ..b.edee...     ",
+  "        .##.#   .b.beed.d.      ",
+  "        .a##.  .b.b.eeed..      ",
+  "         .a.....bb.bd.eed.      ",
+  "         a...c.bbbbded.e.       ",
+  "           .c.c.bbbdeed.        ",
+  "           ..b.c.bb.dee.        ",
+  "          .bb.b.c.b.d.e.        ",
+  "        ..bbbb.b.b.b.e.         ",
+  "      ...b.bbbb.b.b.d.          ",
+  "    ..b.b.b.bbbb.b.b.d          ",
+  "  ..bb.b.b.edd..b.b.b..         ",
+  " .bbbbeeeeedee.e.d.b..d.        ",
+  " .bbededdee.dee.e........       ",
+  " .ed.dededee.ddd.  ...ded..     ",
+  " .ed.d.de.dee...    ..ede.d..   ",
+  ".ded.d.d.d.d.        .de.e.da.. ",
+  ".d.d.d.d....          ..e.a.#.  ",
+  ".d.d.a.#.             .d.a.#.   ",
+  ".d.a.a..               .d.#.    ",
+  ".a.a.#.                .a#.     ",
+  ".a.#..                  ..      ",
+  ".#..                    .       ",
+  "..                              ",
+};
